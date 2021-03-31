@@ -32,3 +32,9 @@ The early stoppage was based on validation loss wich prevents overfitting in com
 A classification report is created in order to get a rough insight how the model performed:
 
 ![classificationReport](images/classificationReport.png)
+
+## Conclusion
+I learned a lot from this project, not just what is presented in the code, I tried creating a Word2Vec for the embedding with a twitter dataset however I noticed it did not performe nearly as well as GloVe. This also lead me down a rabbit hole with Tensorflows Bert-models and other types of embeddings. I am planning to compare this model with a Bert soon enough.
+
+This project was a humbling experience and caught me off guard a few too many times.
+
